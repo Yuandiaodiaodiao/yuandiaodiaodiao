@@ -1,6 +1,6 @@
 ### 😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuandiaodiaodiao&layout=compact)](https://github.com/Yuandiaodiaodiao/github-readme-stats)   
-<img src="https://github-readme-stats.vercel.app/api?username=Yuandiaodiaodiao&show_icons=true&theme=radical" width="10%" height="10%" />
+
+<div>
 <span style="width:100%;display:flex;">
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=Yuandiaodiaodiao&show_icons=true&theme=radical" width="50%" height="100px" />
@@ -11,6 +11,7 @@
 </span>
 
 </span>
+  </div>
 <!--
 **Yuandiaodiaodiao/yuandiaodiaodiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

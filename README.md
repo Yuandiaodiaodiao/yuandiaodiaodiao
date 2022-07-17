@@ -1,7 +1,6 @@
 ### 😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅
 
-<div>
-<span style="width:100%;display:flex;">
+
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=Yuandiaodiaodiao&show_icons=true&theme=radical" width="40%" height="100px" />
 </span>
@@ -10,8 +9,7 @@
 
 </span>
 
-</span>
-  </div>
+
 <!--
 **Yuandiaodiaodiao/yuandiaodiaodiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
